@@ -1,0 +1,5 @@
+D:\Ejercicios\SOAP\WebServiceApplication\Solution\WebApplication\WebApplication\bin\WebApplication.dll
+D:\Ejercicios\SOAP\WebServiceApplication\Solution\WebApplication\WebApplication\bin\WebApplication.pdb
+D:\Ejercicios\SOAP\WebServiceApplication\Solution\WebApplication\WebApplication\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Ejercicios\SOAP\WebServiceApplication\Solution\WebApplication\WebApplication\obj\Debug\WebApplication.dll
+D:\Ejercicios\SOAP\WebServiceApplication\Solution\WebApplication\WebApplication\obj\Debug\WebApplication.pdb
